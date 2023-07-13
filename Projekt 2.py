@@ -2,7 +2,7 @@
 projekt_2.py: druhý projekt do Engeto Online Python Akademie "Bulls and Cows"
 author: David Keltner
 email: dawekeltner71@gmail.com
-discord: xy
+discord: davidk8500
 """
 
 import random
