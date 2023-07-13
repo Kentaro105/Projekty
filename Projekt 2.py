@@ -32,7 +32,8 @@ if number[0] == 0:  # První cifra nemůže být 0
     number[0] = random.randint(1, 9)
 
 number = ''.join(map(str, number))
-print(number)
+print(number) 
+# Zobrazuje vygenerované číslo pro kontrolu jestli program funguje správně.
 
 
 pokusy = []
